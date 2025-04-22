@@ -27,10 +27,15 @@ I have decided to create a website with the objective of feeding the needy, as y
 
 ### Daily Plan: 
 Day1: Ideated and came up with the ideas.
+
 Day2: Thought further and came up with features that would make the application stand out. Got review by Arnab. Did a little bit more thinking and came up with a better structure.
+
 Day3: Started working on the low fid design using Figma. Finalised the parts that is my main focus and start to work on them.
+
 Day4: Finished working on the low-fid design and started working on the high-fid design.
+
 Day 5: Finished working on the High-fid design.
+
 Day 6: Started working on the actual project by creating a new Git-Hub project and start with initialisation of frontend and backend of project.
 
 Forward yet to plan 
