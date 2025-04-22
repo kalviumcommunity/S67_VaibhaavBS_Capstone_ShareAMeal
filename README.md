@@ -25,7 +25,8 @@ I have decided to create a website with the objective of feeding the needy, as y
 •	Storage: Firebase
 
 
-### Daily Plan: 
+### Updates :
+
 Day1: Ideated and came up with the ideas.
 
 Day2: Thought further and came up with features that would make the application stand out. Got review by Arnab. Did a little bit more thinking and came up with a better structure.
@@ -39,5 +40,7 @@ Day 5: Finished working on the High-fid design.
 Day 6: Started working on the actual project by creating a new Git-Hub project and start with initialisation of frontend and backend of project.
 
 Day 7 : Initialized frontend applicaiton and created a component.
+
+Day 8 : Initialized backend servers and created a mongoose schema.
 
 Forward yet to plan 
