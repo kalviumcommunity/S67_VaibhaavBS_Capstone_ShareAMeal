@@ -38,4 +38,6 @@ Day 5: Finished working on the High-fid design.
 
 Day 6: Started working on the actual project by creating a new Git-Hub project and start with initialisation of frontend and backend of project.
 
+Day 7 : Initialized frontend applicaiton and created a component.
+
 Forward yet to plan 
