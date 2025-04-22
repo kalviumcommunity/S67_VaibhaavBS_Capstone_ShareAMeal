@@ -41,4 +41,26 @@ router.get('/', async (req, res) => {
   });
   
 
+router.put('/:id', async(req, res) => {
+    try{
+        const donationId = req.params.id;
+        const updatedData = req.body;
+
+        const updatedDonation = await Donation.findByIdAndUpdate(
+            donationId,
+            updatedData,
+            { new: true, runValidators: true }
+        );
+
+        if(!updatedDonation){
+            return res.status(404).json({error: 'Donation not found'});
+        }
+
+        res.status(200).json(updatedDonation);
+    } catch (error) {
+        console.error('Error updating donation', error);
+        res.status(500).json({error: 'Failed to update donation'});
+    }
+});
+
 module.exports = router;
